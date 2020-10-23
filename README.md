@@ -12,7 +12,7 @@ by [Baihan Lin](https://www.baihan.nyc/) (Columbia), [Djallel Bouneffouf](https:
 
 
 
-For the latest full paper: https://arxiv.org/abs/
+For the latest full paper: https://arxiv.org/abs/2010.11413
 
 
 
@@ -44,10 +44,10 @@ by Baihan Lin, August 2020
 
 If you find this work helpful, please try the models out and cite our works. Thanks!
 
-    @article{lin2020predict,
+    @article{lin2020predicting,
       title={Predicting Human Decision Making in Psychological Tasks with Recurrent Neural Networks},
       author={Lin, Baihan and Bouneffouf, Djallel and Cecchi, Guillermo},
-      journal={arXiv preprint arXiv:},
+      journal={arXiv preprint arXiv:2010.11413},
       year={2020}
     }
 
