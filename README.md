@@ -2,7 +2,7 @@
 
 
 
-Code for our paper: 
+Code for our PLOS ONE paper: 
 
 **"Predicting Human Decision Making in Psychological Tasks with Recurrent Neural Networks"** 
 
