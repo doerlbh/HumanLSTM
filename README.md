@@ -43,9 +43,9 @@ by Baihan Lin, August 2020
 
 If you find this work helpful, please try the models out and cite our works. Thanks!
 
-    @article{10.1371/journal.pone.0267907,
+    @article{lin2022predicting,
     doi = {10.1371/journal.pone.0267907},
-    author = {Lin, Baihan AND Bouneffouf, Djallel AND Cecchi, Guillermo},
+    author = {Lin, Baihan and Bouneffouf, Djallel and Cecchi, Guillermo},
     journal = {PLOS ONE},
     publisher = {Public Library of Science},
     title = {Predicting human decision making in psychological tasks with recurrent neural networks},
